@@ -1,5 +1,4 @@
 # La chouette agence
-Projet 4 du parcours développeur web d'OpenClassrooms : Optimisez un site web existant
 
 ## :dart: Objectifs attendus
 - Analyser l'état actuel de SEO du site fourni dans un **rapport d'analyse**
